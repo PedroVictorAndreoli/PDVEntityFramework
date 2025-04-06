@@ -42,6 +42,7 @@ D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\Newtonsoft.Json.dll
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Buffers.dll
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.IO.Pipelines.dll
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Memory.dll
+D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Net.Http.Json.dll
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Numerics.Vectors.dll
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Text.Encodings.Web.dll
@@ -53,6 +54,7 @@ D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\Newtonsoft.Json.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Buffers.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.IO.Pipelines.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Memory.xml
+D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Net.Http.Json.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Numerics.Vectors.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.Text.Encodings.Web.xml
@@ -62,3 +64,41 @@ D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\bin\Debug\System.ValueTuple.xml
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.csproj.SuggestedBindingRedirects.cache
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.exe.config
 D:\CaixaSuperMercado - Grupo B\CaixaSuperMercado\obj\Debug\CaixaSup.869C8D48.Up2Date
+D:\CaixaSuperMercado\bin\Debug\CaixaSuperMercado.exe.config
+D:\CaixaSuperMercado\bin\Debug\CaixaSuperMercado.exe
+D:\CaixaSuperMercado\bin\Debug\CaixaSuperMercado.pdb
+D:\CaixaSuperMercado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CaixaSuperMercado\bin\Debug\Newtonsoft.Json.dll
+D:\CaixaSuperMercado\bin\Debug\System.Buffers.dll
+D:\CaixaSuperMercado\bin\Debug\System.IO.Pipelines.dll
+D:\CaixaSuperMercado\bin\Debug\System.Memory.dll
+D:\CaixaSuperMercado\bin\Debug\System.Net.Http.Json.dll
+D:\CaixaSuperMercado\bin\Debug\System.Numerics.Vectors.dll
+D:\CaixaSuperMercado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CaixaSuperMercado\bin\Debug\System.Text.Encodings.Web.dll
+D:\CaixaSuperMercado\bin\Debug\System.Text.Json.dll
+D:\CaixaSuperMercado\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CaixaSuperMercado\bin\Debug\System.ValueTuple.dll
+D:\CaixaSuperMercado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CaixaSuperMercado\bin\Debug\Newtonsoft.Json.xml
+D:\CaixaSuperMercado\bin\Debug\System.Buffers.xml
+D:\CaixaSuperMercado\bin\Debug\System.IO.Pipelines.xml
+D:\CaixaSuperMercado\bin\Debug\System.Memory.xml
+D:\CaixaSuperMercado\bin\Debug\System.Net.Http.Json.xml
+D:\CaixaSuperMercado\bin\Debug\System.Numerics.Vectors.xml
+D:\CaixaSuperMercado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CaixaSuperMercado\bin\Debug\System.Text.Encodings.Web.xml
+D:\CaixaSuperMercado\bin\Debug\System.Text.Json.xml
+D:\CaixaSuperMercado\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CaixaSuperMercado\bin\Debug\System.ValueTuple.xml
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.csproj.AssemblyReference.cache
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.csproj.SuggestedBindingRedirects.cache
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.exe.config
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.FormCaixa.resources
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.Login.resources
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.Properties.Resources.resources
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.csproj.GenerateResource.cache
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.csproj.CoreCompileInputs.cache
+D:\CaixaSuperMercado\obj\Debug\CaixaSup.869C8D48.Up2Date
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.exe
+D:\CaixaSuperMercado\obj\Debug\CaixaSuperMercado.pdb

@@ -2971,11 +2971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desktop\\source\\repos\\ServerPDV\\ServerPDV\\ServerPDV.csproj",
+      "projectUniqueName": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\ServerPDV.csproj",
       "projectName": "ServerPDV",
-      "projectPath": "C:\\Users\\Desktop\\source\\repos\\ServerPDV\\ServerPDV\\ServerPDV.csproj",
+      "projectPath": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\ServerPDV.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desktop\\source\\repos\\ServerPDV\\ServerPDV\\obj\\",
+      "outputPath": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

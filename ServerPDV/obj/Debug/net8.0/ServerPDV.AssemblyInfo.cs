@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServerPDV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+592e96a7fd4e7f6b94591bbd2ee465ac445877d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServerPDV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServerPDV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

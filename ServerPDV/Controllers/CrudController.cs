@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.Reflection;
 using Microsoft.AspNetCore.Mvc;
+using ServerPDV.Repository;
 using Servidor_Frota.API.Repositories;
 
 namespace ServerPDV.Controllers

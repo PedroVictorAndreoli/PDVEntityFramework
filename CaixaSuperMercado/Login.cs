@@ -1,4 +1,5 @@
-﻿using CaixaSuperMercado.Service;
+﻿
+using CaixaSuperMercado.Service;
 using ServerPDV.Models;
 using System;
 using System.Collections.Generic;
@@ -30,10 +31,9 @@ namespace CaixaSuperMercado
 
         }
 
-        private void entrar_Click(object sender, EventArgs e)
+        private async void entrar_Click(object sender, EventArgs e)
         {
-
-            login = serviceCrud.GetLogin<Usuario>(user.Text).Result;
+            login = (await serviceCrud.GetLogin<Usuario>(user.Text));
 
             if (login != null && pass.Text == login.Senha)
             {

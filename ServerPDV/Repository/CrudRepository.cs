@@ -25,14 +25,17 @@ namespace Servidor_Frota.API.Repositories
         {
             if (_context.Entry(entity).State == EntityState.Detached)
             {
-                _context.Add(entity);
+                await _context.AddAsync(entity);
             }
             else
             {
                 _context.Update(entity);
             }
+
             await _context.SaveChangesAsync();
-            return entity;
+
+            return await _context.Set<T>().FindAsync(_context.Entry(entity).Property("Id").CurrentValue);
+        
         }
         public async Task<T> Update(T entity)
         {

@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\repository\\cupomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\repository\\cupomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\repository\\cupomitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\repository\\cupomitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\controllers\\cupomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\controllers\\cupomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\models\\cupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\models\\cupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\models\\cupomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\models\\cupomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\controllers\\cupomitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\controllers\\cupomitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\caixasupermercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\caixasupermercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|c:\\users\\desktop\\documents\\github\\pdventityframework\\serverpdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A95891E-51AF-4A9B-8B8D-46502749C497}|ServerPDV\\ServerPDV.csproj|solutionrelative:serverpdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ServerPDV\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:44:10.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Repository\\CrudRepository.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\CrudRepository.cs",
+              "RelativeToolTip": "ServerPDV\\Repository\\CrudRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:42:45.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Controllers\\CrudController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "ServerPDV\\Controllers\\CrudController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:54:54.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ServerPDV\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:55:03.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CupomController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\CupomController.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Controllers\\CupomController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\CupomController.cs",
+              "RelativeToolTip": "ServerPDV\\Controllers\\CupomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:54:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CupomItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\CupomItemController.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Controllers\\CupomItemController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\CupomItemController.cs",
+              "RelativeToolTip": "ServerPDV\\Controllers\\CupomItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:54:14.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CupomItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\CupomItemRepository.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Repository\\CupomItemRepository.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\CupomItemRepository.cs",
+              "RelativeToolTip": "ServerPDV\\Repository\\CupomItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:53:27.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cupom.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Models\\Cupom.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Models\\Cupom.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Models\\Cupom.cs",
+              "RelativeToolTip": "ServerPDV\\Models\\Cupom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:48:13.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CupomItem.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Models\\CupomItem.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Models\\CupomItem.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Models\\CupomItem.cs",
+              "RelativeToolTip": "ServerPDV\\Models\\CupomItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:47:49.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CupomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\CupomRepository.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Repository\\CupomRepository.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\CupomRepository.cs",
+              "RelativeToolTip": "ServerPDV\\Repository\\CupomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T00:32:06.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "ServerPDV\\Repository\\ItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T00:31:58.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ServerPDV\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T00:31:37.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "ServerPDV\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T00:32:08.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CaixaSupermercadoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\CaixaSupermercadoContext.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\CaixaSupermercadoContext.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\CaixaSupermercadoContext.cs",
+              "RelativeToolTip": "ServerPDV\\CaixaSupermercadoContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:09:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Program.cs",
+              "RelativeDocumentMoniker": "ServerPDV\\Program.cs",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\GitHub\\PDVEntityFramework\\ServerPDV\\Program.cs",
+              "RelativeToolTip": "ServerPDV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:58:58.938Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

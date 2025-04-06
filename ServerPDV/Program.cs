@@ -22,7 +22,8 @@ builder.Services.AddScoped<ICrud<Usuario>, UsuarioRepository>();
 builder.Services.AddScoped<UsuarioRepository>();
 builder.Services.AddScoped<ICrud<Cupom>, CupomRepository>();
 builder.Services.AddScoped<CupomRepository>();
-
+builder.Services.AddScoped<ICrud<CupomItem>, CupomItemRepository>();
+builder.Services.AddScoped<CupomItemRepository>();
 
 var app = builder.Build();
 

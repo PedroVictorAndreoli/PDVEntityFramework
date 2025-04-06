@@ -13,6 +13,8 @@ namespace ServerPDV
 
         public DbSet<Item> cupom { get; set; }
 
+        public DbSet<CupomItem> itensCupom { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -48,6 +50,30 @@ namespace ServerPDV
                 entity.Property(e => e.DtEmissao).IsRequired();
                 entity.Property(e => e.TotalVenda).IsRequired().HasColumnType("decimal(18,2)");
                 entity.Property(e => e.CPF).HasMaxLength(11);
+            });
+
+            modelBuilder.Entity<CupomItem>(entity =>
+            {
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Qtde).IsRequired();
+                entity.Property(e => e.PrecoUnit).IsRequired().HasColumnType("decimal(18,2)");
+                entity.Property(e => e.TotalItem).IsRequired().HasColumnType("decimal(18,2)");
+                entity.Property(e => e.Uid).IsRequired();
+
+                entity.HasOne<Cupom>()
+                    .WithMany()
+                    .HasForeignKey(e => e.cupomID)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne<Item>()
+                    .WithMany()
+                    .HasForeignKey(e => e.itemID)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne<Usuario>()
+                    .WithMany()
+                    .HasForeignKey(e => e.Uid)
+                    .OnDelete(DeleteBehavior.Cascade);
             });
         }
 
